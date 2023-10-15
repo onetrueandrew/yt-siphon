@@ -1,4 +1,4 @@
-const YOUTUBE_HOSTNAME = 'www.youtube.com';
+const YOUTUBE_HOSTNAME = 'https://www.youtube.com';
 const DEFAULT_FRONTEND_URL = 'piped.video';
 
 
