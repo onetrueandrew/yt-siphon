@@ -1,4 +1,4 @@
-const YOUTUBE_HOSTNAME = "www.youtube.com";
+const YOUTUBE_HOSTNAME = "https://www.youtube.com";
 
 document.body.addEventListener("click", function(e) {
   if (
